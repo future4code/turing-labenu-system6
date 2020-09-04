@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Jay",
+    "email": "jay@gmail.com",
+    "birthDate": "16/05/1984",
+    "hobbies": [
+      "estudar",
+      "chorar depois de estudar"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Rapha",
+    "email": "rapha@gmail.com",
+    "birthDate": "04/07/1993",
+    "hobbies": [
+      "skate",
+      "correr",
+      "jogar no ps4"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "1",
+    "startDate": "18/05/2020",
+    "endDate": "18/11/2020",
+    "teachers": [
+      {
+        "id": 2,
+        "name": "Mateus",
+        "email": "mateus@gmail.com",
+        "specialties": [
+          "BACKEND",
+          "OOP"
+        ]
+      }
+    ],
+    "students": [
+      {
+        "id": 1,
+        "name": "Jay",
+        "email": "jay@gmail.com",
+        "birthDate": "16/05/1984",
+        "hobbies": [
+          "estudar",
+          "chorar depois de estudar"
+        ]
+      }
+    ],
+    "currentModule": 4,
+    "name": "Turing"
+  },
+  {
+    "id": "2",
+    "startDate": "18/08/2020",
+    "endDate": "18/02/2021",
+    "teachers": [
+      {
+        "id": 1,
+        "name": "Caio",
+        "email": "caio@gmail.com",
+        "specialties": [
+          "CSS",
+          "OOP"
+        ]
+      }
+    ],
+    "students": [
+      {
+        "id": 2,
+        "name": "Rapha",
+        "email": "rapha@gmail.com",
+        "birthDate": "04/07/1993",
+        "hobbies": [
+          "skate",
+          "correr",
+          "jogar no ps4"
+        ]
+      }
+    ],
+    "currentModule": 1,
+    "name": "Tang-na-night"
+  }
+]
